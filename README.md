@@ -1,3 +1,15 @@
+# Notes from the Developer
+
+05.21.2024 @ 21:04
+Howdy y'all! This is my very first project and it is _very_ much a practice/learning project so I doubt anyone will be reading this. However, I did want to say, if you do somehow find yourself here, reading this... You're welcome.
+
+On a serious note: The following tool was built in part with YNAB's handy dandy API Starter Kit and with a lot of rubberducking with ChatGPT (v. 4). Even though I do not have ChatGPT ever write the code for me, it is a "colleague" I can bug at all hours of the day without interrupting something important. _If you use ChatGPT make sure to double check the information it gives you!_
+
+Take a peak below at the instructions I used to create this very tool! Otherwise, you can find the Starter Kit [here](https://github.com/ynab/ynab-api-starter-kit).
+
+_Au revoir, Shoshana!_
+
+
 # YNAB API Starter Kit
 
 Do you want to build a web app with the [YNAB API](https://api.ynab.com/), but are not sure how to get started?
